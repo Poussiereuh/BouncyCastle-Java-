@@ -1,11 +1,4 @@
-/**Fichero: Principal.java
- * Clase para comprobar el funcionamiento de las otras clases del paquete.
- * Asignatura: SEG
- * @author Profesores de la asignatura
- * @version 1.0
- */
-
-import java.io.IOException;
+﻿import java.io.IOException;
 import java.security.NoSuchAlgorithmException;
 import java.util.Scanner;
 
