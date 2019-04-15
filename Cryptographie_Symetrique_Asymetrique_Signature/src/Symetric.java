@@ -1,5 +1,3 @@
-package seg_as;
-
 import java.io.BufferedOutputStream;
 import java.io.BufferedWriter;
 import java.io.ByteArrayOutputStream;
@@ -171,7 +169,7 @@ public class Symetric {
 
 			//CHOICE OF THE CRYPTED FILE FOR DECRYPTION
 
-			System.out.println("Please specify the name of the crypted file for decrypt :");
+			System.out.println("Please specify the name of the crypted file for encrypt :");
 			String nEncryptedFile = si.next(); //nEncryptedFile = name of the encrypted file
 			System.out.println("Your will decrypt the file named " + nEncryptedFile);
 
