@@ -17,4 +17,4 @@ corrects, délivre les certificats de clé publique correspondants.
   * Un utilisateurs qui génère une demande de certifcation (possède également une méthode pour vérifier la validité d'un certificat en se basant sur la date et la signature du CA)
 
 
-*Ces programmes ont été réalisés durant mon ERASMUS à Madrid, d'où les commentaires en Espagnol*
+*Ces programmes ont été réalisés durant mon séjour ERASMUS à Madrid*
