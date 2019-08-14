@@ -3,12 +3,12 @@
 ## Cryptographie symétrique/asymétrique
 ### Symétrique
   * Génération d'une clé (Rijndael, CBC)
-  * Encryption
-  * Décryption
+  * Chiffrement
+  * Déchiffrement
 ### Asymétrique
   * Génération d'une paire de clé (RSA 1024 bits)
-  * Encryption
-  * Décryption
+  * Chiffrement
+  * Déchiffrement
 
 ## Authorité de certification
 ### Simulation du comportement d'une PKI (Public Key Infrastructure)
